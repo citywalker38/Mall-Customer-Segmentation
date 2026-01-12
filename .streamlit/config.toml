@@ -1,0 +1,11 @@
+[ui]
+hideTopBar = false
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
